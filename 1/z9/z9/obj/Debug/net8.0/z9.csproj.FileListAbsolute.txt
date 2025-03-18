@@ -1,0 +1,15 @@
+C:\Kolledg\c#\1\z9\z9\bin\Debug\net8.0\z9.exe
+C:\Kolledg\c#\1\z9\z9\bin\Debug\net8.0\z9.deps.json
+C:\Kolledg\c#\1\z9\z9\bin\Debug\net8.0\z9.runtimeconfig.json
+C:\Kolledg\c#\1\z9\z9\bin\Debug\net8.0\z9.dll
+C:\Kolledg\c#\1\z9\z9\bin\Debug\net8.0\z9.pdb
+C:\Kolledg\c#\1\z9\z9\obj\Debug\net8.0\z9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Kolledg\c#\1\z9\z9\obj\Debug\net8.0\z9.AssemblyInfoInputs.cache
+C:\Kolledg\c#\1\z9\z9\obj\Debug\net8.0\z9.AssemblyInfo.cs
+C:\Kolledg\c#\1\z9\z9\obj\Debug\net8.0\z9.csproj.CoreCompileInputs.cache
+C:\Kolledg\c#\1\z9\z9\obj\Debug\net8.0\z9.sourcelink.json
+C:\Kolledg\c#\1\z9\z9\obj\Debug\net8.0\z9.dll
+C:\Kolledg\c#\1\z9\z9\obj\Debug\net8.0\refint\z9.dll
+C:\Kolledg\c#\1\z9\z9\obj\Debug\net8.0\z9.pdb
+C:\Kolledg\c#\1\z9\z9\obj\Debug\net8.0\z9.genruntimeconfig.cache
+C:\Kolledg\c#\1\z9\z9\obj\Debug\net8.0\ref\z9.dll

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Kolledg\\c#\\1\\z6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{47255910-EE64-467D-AAE6-8CDEC261D0B6}|z6\\z6.csproj|c:\\kolledg\\c#\\1\\z6\\z6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{47255910-EE64-467D-AAE6-8CDEC261D0B6}|z6\\z6.csproj|solutionrelative:z6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Kolledg\\c#\\1\\z6\\z6\\Program.cs",
+              "RelativeDocumentMoniker": "z6\\Program.cs",
+              "ToolTip": "C:\\Kolledg\\c#\\1\\z6\\z6\\Program.cs",
+              "RelativeToolTip": "z6\\Program.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAQwDIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-18T07:50:19.76Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
