@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Kolledg\\practica\\pract\\2\\z2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{ADBC8E98-23A0-48B6-A92E-852511514086}|z2\\z2.csproj|c:\\kolledg\\practica\\pract\\2\\z2\\z2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADBC8E98-23A0-48B6-A92E-852511514086}|z2\\z2.csproj|solutionrelative:z2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{ADBC8E98-23A0-48B6-A92E-852511514086}|z2\\z2.csproj|c:\\kolledg\\practica\\pract\\2\\z2\\z2\\mass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{ADBC8E98-23A0-48B6-A92E-852511514086}|z2\\z2.csproj|solutionrelative:z2\\mass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Mass.cs",
+              "DocumentMoniker": "C:\\Kolledg\\practica\\pract\\2\\z2\\z2\\Mass.cs",
+              "RelativeDocumentMoniker": "z2\\Mass.cs",
+              "ToolTip": "C:\\Kolledg\\practica\\pract\\2\\z2\\z2\\Mass.cs",
+              "RelativeToolTip": "z2\\Mass.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAkwBUAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T08:52:09.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Kolledg\\practica\\pract\\2\\z2\\z2\\Program.cs",
+              "RelativeDocumentMoniker": "z2\\Program.cs",
+              "ToolTip": "C:\\Kolledg\\practica\\pract\\2\\z2\\z2\\Program.cs",
+              "RelativeToolTip": "z2\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwCAAAABIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-19T08:20:09.535Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
