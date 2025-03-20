@@ -1,0 +1,17 @@
+C:\Kolledg\practica\pract\3\z2\z2\bin\Debug\net8.0\z2.exe
+C:\Kolledg\practica\pract\3\z2\z2\bin\Debug\net8.0\z2.deps.json
+C:\Kolledg\practica\pract\3\z2\z2\bin\Debug\net8.0\z2.runtimeconfig.json
+C:\Kolledg\practica\pract\3\z2\z2\bin\Debug\net8.0\z2.dll
+C:\Kolledg\practica\pract\3\z2\z2\bin\Debug\net8.0\z2.pdb
+C:\Kolledg\practica\pract\3\z2\z2\bin\Debug\net8.0\Bogus.dll
+C:\Kolledg\practica\pract\3\z2\z2\obj\Debug\net8.0\z2.csproj.AssemblyReference.cache
+C:\Kolledg\practica\pract\3\z2\z2\obj\Debug\net8.0\z2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Kolledg\practica\pract\3\z2\z2\obj\Debug\net8.0\z2.AssemblyInfoInputs.cache
+C:\Kolledg\practica\pract\3\z2\z2\obj\Debug\net8.0\z2.AssemblyInfo.cs
+C:\Kolledg\practica\pract\3\z2\z2\obj\Debug\net8.0\z2.csproj.CoreCompileInputs.cache
+C:\Kolledg\practica\pract\3\z2\z2\obj\Debug\net8.0\z2.csproj.Up2Date
+C:\Kolledg\practica\pract\3\z2\z2\obj\Debug\net8.0\z2.dll
+C:\Kolledg\practica\pract\3\z2\z2\obj\Debug\net8.0\refint\z2.dll
+C:\Kolledg\practica\pract\3\z2\z2\obj\Debug\net8.0\z2.pdb
+C:\Kolledg\practica\pract\3\z2\z2\obj\Debug\net8.0\z2.genruntimeconfig.cache
+C:\Kolledg\practica\pract\3\z2\z2\obj\Debug\net8.0\ref\z2.dll

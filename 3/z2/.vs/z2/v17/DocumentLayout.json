@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Kolledg\\practica\\pract\\3\\z2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{22789FBC-2828-4585-BF77-AB02E69A382A}|z2\\z2.csproj|c:\\kolledg\\practica\\pract\\3\\z2\\z2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22789FBC-2828-4585-BF77-AB02E69A382A}|z2\\z2.csproj|solutionrelative:z2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22789FBC-2828-4585-BF77-AB02E69A382A}|z2\\z2.csproj|c:\\kolledg\\practica\\pract\\3\\z2\\z2\\arrayutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22789FBC-2828-4585-BF77-AB02E69A382A}|z2\\z2.csproj|solutionrelative:z2\\arrayutils.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22789FBC-2828-4585-BF77-AB02E69A382A}|z2\\z2.csproj|c:\\kolledg\\practica\\pract\\3\\z2\\z2\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22789FBC-2828-4585-BF77-AB02E69A382A}|z2\\z2.csproj|solutionrelative:z2\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ArrayUtils.cs",
+              "DocumentMoniker": "C:\\Kolledg\\practica\\pract\\3\\z2\\z2\\ArrayUtils.cs",
+              "RelativeDocumentMoniker": "z2\\ArrayUtils.cs",
+              "ToolTip": "C:\\Kolledg\\practica\\pract\\3\\z2\\z2\\ArrayUtils.cs",
+              "RelativeToolTip": "z2\\ArrayUtils.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T06:07:24.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Kolledg\\practica\\pract\\3\\z2\\z2\\Person.cs",
+              "RelativeDocumentMoniker": "z2\\Person.cs",
+              "ToolTip": "C:\\Kolledg\\practica\\pract\\3\\z2\\z2\\Person.cs",
+              "RelativeToolTip": "z2\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T06:04:48.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Kolledg\\practica\\pract\\3\\z2\\z2\\Program.cs",
+              "RelativeDocumentMoniker": "z2\\Program.cs",
+              "ToolTip": "C:\\Kolledg\\practica\\pract\\3\\z2\\z2\\Program.cs",
+              "RelativeToolTip": "z2\\Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T05:54:46.036Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
