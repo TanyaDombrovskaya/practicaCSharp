@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Kolledg\\practicaCSharp\\4\\z5\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3BFBFB31-9CB4-4987-B095-08DEA915EB59}|z5\\z5.csproj|c:\\kolledg\\practicacsharp\\4\\z5\\z5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BFBFB31-9CB4-4987-B095-08DEA915EB59}|z5\\z5.csproj|solutionrelative:z5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3BFBFB31-9CB4-4987-B095-08DEA915EB59}|z5\\z5.csproj|c:\\kolledg\\practicacsharp\\4\\z5\\z5\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3BFBFB31-9CB4-4987-B095-08DEA915EB59}|z5\\z5.csproj|solutionrelative:z5\\food.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Food.cs",
+              "DocumentMoniker": "C:\\Kolledg\\practicaCSharp\\4\\z5\\z5\\Food.cs",
+              "RelativeDocumentMoniker": "z5\\Food.cs",
+              "ToolTip": "C:\\Kolledg\\practicaCSharp\\4\\z5\\z5\\Food.cs",
+              "RelativeToolTip": "z5\\Food.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T08:38:46.073Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Kolledg\\practicaCSharp\\4\\z5\\z5\\Program.cs",
+              "RelativeDocumentMoniker": "z5\\Program.cs",
+              "ToolTip": "C:\\Kolledg\\practicaCSharp\\4\\z5\\z5\\Program.cs",
+              "RelativeToolTip": "z5\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-21T08:36:20.785Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
