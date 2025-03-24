@@ -1,0 +1,100 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Kolledg\\practicaCSharp\\6\\z1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AAF228AF-99D3-442D-A606-B1DE05EFB43B}|..\\z4\\z4.csproj|c:\\kolledg\\practicacsharp\\6\\z4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAF228AF-99D3-442D-A606-B1DE05EFB43B}|..\\z4\\z4.csproj|c:\\kolledg\\practicacsharp\\6\\z4\\userloginmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAF228AF-99D3-442D-A606-B1DE05EFB43B}|..\\z4\\z4.csproj|c:\\kolledg\\practicacsharp\\6\\z4\\loginobserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAF228AF-99D3-442D-A606-B1DE05EFB43B}|..\\z4\\z4.csproj|c:\\kolledg\\practicacsharp\\6\\z4\\notificationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AAF228AF-99D3-442D-A606-B1DE05EFB43B}|..\\z4\\z4.csproj|c:\\kolledg\\practicacsharp\\6\\z4\\securitysystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "NotificationService.cs",
+              "DocumentMoniker": "C:\\Kolledg\\practicaCSharp\\6\\z4\\NotificationService.cs",
+              "RelativeDocumentMoniker": "..\\z4\\NotificationService.cs",
+              "ToolTip": "C:\\Kolledg\\practicaCSharp\\6\\z4\\NotificationService.cs",
+              "RelativeToolTip": "..\\z4\\NotificationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T10:43:00.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SecuritySystem.cs",
+              "DocumentMoniker": "C:\\Kolledg\\practicaCSharp\\6\\z4\\SecuritySystem.cs",
+              "RelativeDocumentMoniker": "..\\z4\\SecuritySystem.cs",
+              "ToolTip": "C:\\Kolledg\\practicaCSharp\\6\\z4\\SecuritySystem.cs",
+              "RelativeToolTip": "..\\z4\\SecuritySystem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T10:42:13.784Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LoginObserver.cs",
+              "DocumentMoniker": "C:\\Kolledg\\practicaCSharp\\6\\z4\\LoginObserver.cs",
+              "RelativeDocumentMoniker": "..\\z4\\LoginObserver.cs",
+              "ToolTip": "C:\\Kolledg\\practicaCSharp\\6\\z4\\LoginObserver.cs",
+              "RelativeToolTip": "..\\z4\\LoginObserver.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T10:40:02.1Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserLoginManager.cs",
+              "DocumentMoniker": "C:\\Kolledg\\practicaCSharp\\6\\z4\\UserLoginManager.cs",
+              "RelativeDocumentMoniker": "..\\z4\\UserLoginManager.cs",
+              "ToolTip": "C:\\Kolledg\\practicaCSharp\\6\\z4\\UserLoginManager.cs",
+              "RelativeToolTip": "..\\z4\\UserLoginManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T10:38:44.902Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Kolledg\\practicaCSharp\\6\\z4\\Program.cs",
+              "RelativeDocumentMoniker": "..\\z4\\Program.cs",
+              "ToolTip": "C:\\Kolledg\\practicaCSharp\\6\\z4\\Program.cs",
+              "RelativeToolTip": "..\\z4\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T10:37:18.392Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

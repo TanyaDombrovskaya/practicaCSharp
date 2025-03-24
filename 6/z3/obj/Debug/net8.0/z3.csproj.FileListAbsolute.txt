@@ -1,0 +1,15 @@
+C:\Kolledg\practicaCSharp\6\z1\z3\bin\Debug\net8.0\z3.exe
+C:\Kolledg\practicaCSharp\6\z1\z3\bin\Debug\net8.0\z3.deps.json
+C:\Kolledg\practicaCSharp\6\z1\z3\bin\Debug\net8.0\z3.runtimeconfig.json
+C:\Kolledg\practicaCSharp\6\z1\z3\bin\Debug\net8.0\z3.dll
+C:\Kolledg\practicaCSharp\6\z1\z3\bin\Debug\net8.0\z3.pdb
+C:\Kolledg\practicaCSharp\6\z1\z3\obj\Debug\net8.0\z3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Kolledg\practicaCSharp\6\z1\z3\obj\Debug\net8.0\z3.AssemblyInfoInputs.cache
+C:\Kolledg\practicaCSharp\6\z1\z3\obj\Debug\net8.0\z3.AssemblyInfo.cs
+C:\Kolledg\practicaCSharp\6\z1\z3\obj\Debug\net8.0\z3.csproj.CoreCompileInputs.cache
+C:\Kolledg\practicaCSharp\6\z1\z3\obj\Debug\net8.0\z3.sourcelink.json
+C:\Kolledg\practicaCSharp\6\z1\z3\obj\Debug\net8.0\z3.dll
+C:\Kolledg\practicaCSharp\6\z1\z3\obj\Debug\net8.0\refint\z3.dll
+C:\Kolledg\practicaCSharp\6\z1\z3\obj\Debug\net8.0\z3.pdb
+C:\Kolledg\practicaCSharp\6\z1\z3\obj\Debug\net8.0\z3.genruntimeconfig.cache
+C:\Kolledg\practicaCSharp\6\z1\z3\obj\Debug\net8.0\ref\z3.dll
