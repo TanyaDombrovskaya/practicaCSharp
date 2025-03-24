@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Kolledg\\practicaCSharp\\5\\z4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F65823EE-B9FC-44FB-9B17-29A1DDFB316B}|z4\\z4.csproj|c:\\kolledg\\practicacsharp\\5\\z4\\z4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F65823EE-B9FC-44FB-9B17-29A1DDFB316B}|z4\\z4.csproj|solutionrelative:z4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F65823EE-B9FC-44FB-9B17-29A1DDFB316B}|z4\\z4.csproj|c:\\kolledg\\practicacsharp\\5\\z4\\z4\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F65823EE-B9FC-44FB-9B17-29A1DDFB316B}|z4\\z4.csproj|solutionrelative:z4\\logger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F65823EE-B9FC-44FB-9B17-29A1DDFB316B}|z4\\z4.csproj|c:\\kolledg\\practicacsharp\\5\\z4\\z4\\ieventlogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F65823EE-B9FC-44FB-9B17-29A1DDFB316B}|z4\\z4.csproj|solutionrelative:z4\\ieventlogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F65823EE-B9FC-44FB-9B17-29A1DDFB316B}|z4\\z4.csproj|c:\\kolledg\\practicacsharp\\5\\z4\\z4\\ierrorloger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F65823EE-B9FC-44FB-9B17-29A1DDFB316B}|z4\\z4.csproj|solutionrelative:z4\\ierrorloger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Logger.cs",
+              "DocumentMoniker": "C:\\Kolledg\\practicaCSharp\\5\\z4\\z4\\Logger.cs",
+              "RelativeDocumentMoniker": "z4\\Logger.cs",
+              "ToolTip": "C:\\Kolledg\\practicaCSharp\\5\\z4\\z4\\Logger.cs",
+              "RelativeToolTip": "z4\\Logger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T08:45:39.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IEventLogger.cs",
+              "DocumentMoniker": "C:\\Kolledg\\practicaCSharp\\5\\z4\\z4\\IEventLogger.cs",
+              "RelativeDocumentMoniker": "z4\\IEventLogger.cs",
+              "ToolTip": "C:\\Kolledg\\practicaCSharp\\5\\z4\\z4\\IEventLogger.cs",
+              "RelativeToolTip": "z4\\IEventLogger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T08:44:53.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IErrorLoger.cs",
+              "DocumentMoniker": "C:\\Kolledg\\practicaCSharp\\5\\z4\\z4\\IErrorLoger.cs",
+              "RelativeDocumentMoniker": "z4\\IErrorLoger.cs",
+              "ToolTip": "C:\\Kolledg\\practicaCSharp\\5\\z4\\z4\\IErrorLoger.cs",
+              "RelativeToolTip": "z4\\IErrorLoger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T08:43:50.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Kolledg\\practicaCSharp\\5\\z4\\z4\\Program.cs",
+              "RelativeDocumentMoniker": "z4\\Program.cs",
+              "ToolTip": "C:\\Kolledg\\practicaCSharp\\5\\z4\\z4\\Program.cs",
+              "RelativeToolTip": "z4\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-24T08:41:49.514Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
