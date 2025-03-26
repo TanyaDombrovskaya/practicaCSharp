@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Kolledg\\practicaCSharp\\8\\z3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4FE0E2B2-8C81-42BC-B06D-131C27A56E12}|z3\\z3.csproj|c:\\kolledg\\practicacsharp\\8\\z3\\z3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FE0E2B2-8C81-42BC-B06D-131C27A56E12}|z3\\z3.csproj|solutionrelative:z3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FE0E2B2-8C81-42BC-B06D-131C27A56E12}|z3\\z3.csproj|c:\\kolledg\\practicacsharp\\8\\z3\\z3\\iserializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FE0E2B2-8C81-42BC-B06D-131C27A56E12}|z3\\z3.csproj|solutionrelative:z3\\iserializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FE0E2B2-8C81-42BC-B06D-131C27A56E12}|z3\\z3.csproj|c:\\kolledg\\practicacsharp\\8\\z3\\z3\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FE0E2B2-8C81-42BC-B06D-131C27A56E12}|z3\\z3.csproj|solutionrelative:z3\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Kolledg\\practicaCSharp\\8\\z3\\z3\\Person.cs",
+              "RelativeDocumentMoniker": "z3\\Person.cs",
+              "ToolTip": "C:\\Kolledg\\practicaCSharp\\8\\z3\\z3\\Person.cs",
+              "RelativeToolTip": "z3\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T06:13:12.77Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ISerializer.cs",
+              "DocumentMoniker": "C:\\Kolledg\\practicaCSharp\\8\\z3\\z3\\ISerializer.cs",
+              "RelativeDocumentMoniker": "z3\\ISerializer.cs",
+              "ToolTip": "C:\\Kolledg\\practicaCSharp\\8\\z3\\z3\\ISerializer.cs",
+              "RelativeToolTip": "z3\\ISerializer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T06:11:23.162Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Kolledg\\practicaCSharp\\8\\z3\\z3\\Program.cs",
+              "RelativeDocumentMoniker": "z3\\Program.cs",
+              "ToolTip": "C:\\Kolledg\\practicaCSharp\\8\\z3\\z3\\Program.cs",
+              "RelativeToolTip": "z3\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-26T06:08:34.501Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
