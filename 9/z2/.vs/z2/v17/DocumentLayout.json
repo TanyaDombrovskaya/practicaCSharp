@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Kolledg\\practicaCSharp\\9\\z2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C5571C14-C53B-46DA-AEA1-09930AD3E8D0}|z2\\z2.csproj|c:\\kolledg\\practicacsharp\\9\\z2\\z2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5571C14-C53B-46DA-AEA1-09930AD3E8D0}|z2\\z2.csproj|solutionrelative:z2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5571C14-C53B-46DA-AEA1-09930AD3E8D0}|z2\\z2.csproj|c:\\kolledg\\practicacsharp\\9\\z2\\z2\\customerfilewriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5571C14-C53B-46DA-AEA1-09930AD3E8D0}|z2\\z2.csproj|solutionrelative:z2\\customerfilewriter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C5571C14-C53B-46DA-AEA1-09930AD3E8D0}|z2\\z2.csproj|c:\\kolledg\\practicacsharp\\9\\z2\\z2\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C5571C14-C53B-46DA-AEA1-09930AD3E8D0}|z2\\z2.csproj|solutionrelative:z2\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomerFileWriter.cs",
+              "DocumentMoniker": "C:\\Kolledg\\practicaCSharp\\9\\z2\\z2\\CustomerFileWriter.cs",
+              "RelativeDocumentMoniker": "z2\\CustomerFileWriter.cs",
+              "ToolTip": "C:\\Kolledg\\practicaCSharp\\9\\z2\\z2\\CustomerFileWriter.cs",
+              "RelativeToolTip": "z2\\CustomerFileWriter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T08:43:02.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\Kolledg\\practicaCSharp\\9\\z2\\z2\\Customer.cs",
+              "RelativeDocumentMoniker": "z2\\Customer.cs",
+              "ToolTip": "C:\\Kolledg\\practicaCSharp\\9\\z2\\z2\\Customer.cs",
+              "RelativeToolTip": "z2\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T08:42:41.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Kolledg\\practicaCSharp\\9\\z2\\z2\\Program.cs",
+              "RelativeDocumentMoniker": "z2\\Program.cs",
+              "ToolTip": "C:\\Kolledg\\practicaCSharp\\9\\z2\\z2\\Program.cs",
+              "RelativeToolTip": "z2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T08:39:37.097Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

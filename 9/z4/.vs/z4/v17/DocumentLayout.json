@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Kolledg\\practicaCSharp\\9\\z4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{80FE0F29-84BE-478B-A269-56E458C7F8A0}|z4\\z4.csproj|c:\\kolledg\\practicacsharp\\9\\z4\\z4\\filewatcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80FE0F29-84BE-478B-A269-56E458C7F8A0}|z4\\z4.csproj|solutionrelative:z4\\filewatcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80FE0F29-84BE-478B-A269-56E458C7F8A0}|z4\\z4.csproj|c:\\kolledg\\practicacsharp\\9\\z4\\z4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80FE0F29-84BE-478B-A269-56E458C7F8A0}|z4\\z4.csproj|solutionrelative:z4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FileWatcher.cs",
+              "DocumentMoniker": "C:\\Kolledg\\practicaCSharp\\9\\z4\\z4\\FileWatcher.cs",
+              "RelativeDocumentMoniker": "z4\\FileWatcher.cs",
+              "ToolTip": "C:\\Kolledg\\practicaCSharp\\9\\z4\\z4\\FileWatcher.cs",
+              "RelativeToolTip": "z4\\FileWatcher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADUAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T08:36:58.134Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Kolledg\\practicaCSharp\\9\\z4\\z4\\Program.cs",
+              "RelativeDocumentMoniker": "z4\\Program.cs",
+              "ToolTip": "C:\\Kolledg\\practicaCSharp\\9\\z4\\z4\\Program.cs",
+              "RelativeToolTip": "z4\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-27T08:36:42.81Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
