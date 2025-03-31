@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Kolledg\\practicaCSharp\\11\\z2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0A47FB89-F91F-4E81-A39B-3AED0713C3AC}|z2\\z2.csproj|c:\\kolledg\\practicacsharp\\11\\z2\\z2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A47FB89-F91F-4E81-A39B-3AED0713C3AC}|z2\\z2.csproj|solutionrelative:z2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A47FB89-F91F-4E81-A39B-3AED0713C3AC}|z2\\z2.csproj|c:\\kolledg\\practicacsharp\\11\\z2\\z2\\igamecharacter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A47FB89-F91F-4E81-A39B-3AED0713C3AC}|z2\\z2.csproj|solutionrelative:z2\\igamecharacter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A47FB89-F91F-4E81-A39B-3AED0713C3AC}|z2\\z2.csproj|c:\\kolledg\\practicacsharp\\11\\z2\\z2\\healingdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A47FB89-F91F-4E81-A39B-3AED0713C3AC}|z2\\z2.csproj|solutionrelative:z2\\healingdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A47FB89-F91F-4E81-A39B-3AED0713C3AC}|z2\\z2.csproj|c:\\kolledg\\practicacsharp\\11\\z2\\z2\\powerattackdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A47FB89-F91F-4E81-A39B-3AED0713C3AC}|z2\\z2.csproj|solutionrelative:z2\\powerattackdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A47FB89-F91F-4E81-A39B-3AED0713C3AC}|z2\\z2.csproj|c:\\kolledg\\practicacsharp\\11\\z2\\z2\\stealthdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A47FB89-F91F-4E81-A39B-3AED0713C3AC}|z2\\z2.csproj|solutionrelative:z2\\stealthdecorator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0A47FB89-F91F-4E81-A39B-3AED0713C3AC}|z2\\z2.csproj|c:\\kolledg\\practicacsharp\\11\\z2\\z2\\basecharacter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0A47FB89-F91F-4E81-A39B-3AED0713C3AC}|z2\\z2.csproj|solutionrelative:z2\\basecharacter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StealthDecorator.cs",
+              "DocumentMoniker": "C:\\Kolledg\\practicaCSharp\\11\\z2\\z2\\StealthDecorator.cs",
+              "RelativeDocumentMoniker": "z2\\StealthDecorator.cs",
+              "ToolTip": "C:\\Kolledg\\practicaCSharp\\11\\z2\\z2\\StealthDecorator.cs",
+              "RelativeToolTip": "z2\\StealthDecorator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T07:29:13.233Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Kolledg\\practicaCSharp\\11\\z2\\z2\\Program.cs",
+              "RelativeDocumentMoniker": "z2\\Program.cs",
+              "ToolTip": "C:\\Kolledg\\practicaCSharp\\11\\z2\\z2\\Program.cs",
+              "RelativeToolTip": "z2\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T07:29:12.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PowerAttackDecorator.cs",
+              "DocumentMoniker": "C:\\Kolledg\\practicaCSharp\\11\\z2\\z2\\PowerAttackDecorator.cs",
+              "RelativeDocumentMoniker": "z2\\PowerAttackDecorator.cs",
+              "ToolTip": "C:\\Kolledg\\practicaCSharp\\11\\z2\\z2\\PowerAttackDecorator.cs",
+              "RelativeToolTip": "z2\\PowerAttackDecorator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T07:29:11.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IGameCharacter.cs",
+              "DocumentMoniker": "C:\\Kolledg\\practicaCSharp\\11\\z2\\z2\\IGameCharacter.cs",
+              "RelativeDocumentMoniker": "z2\\IGameCharacter.cs",
+              "ToolTip": "C:\\Kolledg\\practicaCSharp\\11\\z2\\z2\\IGameCharacter.cs",
+              "RelativeToolTip": "z2\\IGameCharacter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T07:29:10.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HealingDecorator.cs",
+              "DocumentMoniker": "C:\\Kolledg\\practicaCSharp\\11\\z2\\z2\\HealingDecorator.cs",
+              "RelativeDocumentMoniker": "z2\\HealingDecorator.cs",
+              "ToolTip": "C:\\Kolledg\\practicaCSharp\\11\\z2\\z2\\HealingDecorator.cs",
+              "RelativeToolTip": "z2\\HealingDecorator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T07:29:09.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BaseCharacter.cs",
+              "DocumentMoniker": "C:\\Kolledg\\practicaCSharp\\11\\z2\\z2\\BaseCharacter.cs",
+              "RelativeDocumentMoniker": "z2\\BaseCharacter.cs",
+              "ToolTip": "C:\\Kolledg\\practicaCSharp\\11\\z2\\z2\\BaseCharacter.cs",
+              "RelativeToolTip": "z2\\BaseCharacter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-31T07:29:07.703Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
