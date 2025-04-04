@@ -1,0 +1,74 @@
+{
+  "films": [
+    {
+      "id": 1,
+      "title": "SuperMan",
+      "genre": "Action",
+      "releaseYear": 2021,
+      "duration": 120,
+      "rating": 8.5
+    },
+    {
+      "id": 2,
+      "title": "Ambasador",
+      "genre": "Drama",
+      "releaseYear": 2020,
+      "duration": 100,
+      "rating": 7.2
+    },
+    {
+      "id": 3,
+      "title": "FilmFilm",
+      "genre": "Comedy",
+      "releaseYear": 2019,
+      "duration": 90,
+      "rating": 6.8
+    }
+  ],
+  "tickets": [
+    {
+      "id": 1,
+      "filmId": 1,
+      "userId": 2,
+      "price": 15,
+      "seat": "34",
+      "showtime": "15:00"
+    },
+    {
+      "id": 2,
+      "filmId": 2,
+      "userId": 1,
+      "price": 15,
+      "seat": "23",
+      "showtime": "18:00"
+    },
+    {
+      "id": 3,
+      "filmId": 3,
+      "userId": 3,
+      "price": 15,
+      "seat": "12",
+      "showtime": "21:00"
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "name": "Alice",
+      "email": "alice@example.com",
+      "password": "alice123"
+    },
+    {
+      "id": 2,
+      "name": "Bob",
+      "email": "bob@example.com",
+      "password": "bob123"
+    },
+    {
+      "id": 3,
+      "name": "Charlie",
+      "email": "charlie@example.com",
+      "password": "charlie123"
+    }
+  ]
+}
