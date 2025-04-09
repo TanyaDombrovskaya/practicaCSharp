@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Kolledg\\practicaCSharp\\12-13-14-15-16-17\\Cinoteatr\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{392B362F-1DFF-4219-A65A-0EF2688E5148}|Cinoteatr\\Cinoteatr.csproj|c:\\kolledg\\practicacsharp\\12-13-14-15-16-17\\cinoteatr\\cinoteatr\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{392B362F-1DFF-4219-A65A-0EF2688E5148}|Cinoteatr\\Cinoteatr.csproj|solutionrelative:cinoteatr\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{392B362F-1DFF-4219-A65A-0EF2688E5148}|Cinoteatr\\Cinoteatr.csproj|C:\\Kolledg\\practicaCSharp\\12-13-14-15-16-17\\Cinoteatr\\cinoteatr\\databasemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{392B362F-1DFF-4219-A65A-0EF2688E5148}|Cinoteatr\\Cinoteatr.csproj|solutionrelative:cinoteatr\\databasemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{392B362F-1DFF-4219-A65A-0EF2688E5148}|Cinoteatr\\Cinoteatr.csproj|c:\\kolledg\\practicacsharp\\12-13-14-15-16-17\\cinoteatr\\cinoteatr\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{392B362F-1DFF-4219-A65A-0EF2688E5148}|Cinoteatr\\Cinoteatr.csproj|solutionrelative:cinoteatr\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{392B362F-1DFF-4219-A65A-0EF2688E5148}|Cinoteatr\\Cinoteatr.csproj|C:\\Kolledg\\practicaCSharp\\12-13-14-15-16-17\\Cinoteatr\\cinoteatr\\ticketrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -30,7 +30,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
@@ -47,26 +47,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "DatabaseManager.cs",
               "DocumentMoniker": "C:\\Kolledg\\practicaCSharp\\12-13-14-15-16-17\\Cinoteatr\\Cinoteatr\\DatabaseManager.cs",
               "RelativeDocumentMoniker": "Cinoteatr\\DatabaseManager.cs",
               "ToolTip": "C:\\Kolledg\\practicaCSharp\\12-13-14-15-16-17\\Cinoteatr\\Cinoteatr\\DatabaseManager.cs",
               "RelativeToolTip": "Cinoteatr\\DatabaseManager.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAIYAAAAAAAAAAAAqwJcAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-07T12:59:11.57Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Kolledg\\practicaCSharp\\12-13-14-15-16-17\\Cinoteatr\\Cinoteatr\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "Cinoteatr\\MainWindow.xaml.cs",
               "ToolTip": "C:\\Kolledg\\practicaCSharp\\12-13-14-15-16-17\\Cinoteatr\\Cinoteatr\\MainWindow.xaml.cs",
               "RelativeToolTip": "Cinoteatr\\MainWindow.xaml.cs",
-              "ViewState": "AgIAAL4AAAAAAAAAAAAcwMgAAAAQAAAAAAAAAA==",
+              "ViewState": "AgIAAL4AAAAAAAAAAAAcwMoAAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-07T10:33:50.596Z",
               "EditorCaption": ""

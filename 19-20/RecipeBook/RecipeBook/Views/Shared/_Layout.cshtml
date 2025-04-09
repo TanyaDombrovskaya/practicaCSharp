@@ -1,0 +1,23 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"]</title>
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+</head>
+<body>
+    <header>
+        <span class="mainTitle">RecipeBook</span>
+        <div class="searchContainer">
+            <form method="get" asp-action="Search">
+                <input type="text" name="ingredient" placeholder="Введите ингредиент" class="search"/>
+                <button type="submit" class="searchButton">Поиск</button>
+            </form>
+        </div>
+    </header>
+    <main>
+        @RenderBody()
+    </main>
+</body>
+</html>
