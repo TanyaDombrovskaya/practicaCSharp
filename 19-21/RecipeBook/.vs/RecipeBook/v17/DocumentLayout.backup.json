@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Kolledg\\practicaCSharp\\19-20\\RecipeBook\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F883B282-F0A9-47FF-81AF-5AE09DB28C4F}|RecipeBook\\RecipeBook.csproj|c:\\kolledg\\practicacsharp\\19-20\\recipebook\\recipebook\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F883B282-F0A9-47FF-81AF-5AE09DB28C4F}|RecipeBook\\RecipeBook.csproj|solutionrelative:recipebook\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F883B282-F0A9-47FF-81AF-5AE09DB28C4F}|RecipeBook\\RecipeBook.csproj|c:\\kolledg\\practicacsharp\\19-20\\recipebook\\recipebook\\views\\home\\change.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F883B282-F0A9-47FF-81AF-5AE09DB28C4F}|RecipeBook\\RecipeBook.csproj|solutionrelative:recipebook\\views\\home\\change.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F883B282-F0A9-47FF-81AF-5AE09DB28C4F}|RecipeBook\\RecipeBook.csproj|c:\\kolledg\\practicacsharp\\19-20\\recipebook\\recipebook\\controllers\\recipecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F883B282-F0A9-47FF-81AF-5AE09DB28C4F}|RecipeBook\\RecipeBook.csproj|solutionrelative:recipebook\\controllers\\recipecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Kolledg\\practicaCSharp\\19-20\\RecipeBook\\RecipeBook\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "RecipeBook\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Kolledg\\practicaCSharp\\19-20\\RecipeBook\\RecipeBook\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "RecipeBook\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAAAswFsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T12:38:01.761Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RecipeController.cs",
+              "DocumentMoniker": "C:\\Kolledg\\practicaCSharp\\19-20\\RecipeBook\\RecipeBook\\Controllers\\RecipeController.cs",
+              "RelativeDocumentMoniker": "RecipeBook\\Controllers\\RecipeController.cs",
+              "ToolTip": "C:\\Kolledg\\practicaCSharp\\19-20\\RecipeBook\\RecipeBook\\Controllers\\RecipeController.cs",
+              "RelativeToolTip": "RecipeBook\\Controllers\\RecipeController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwCsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-10T12:32:54.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Change.cshtml",
+              "DocumentMoniker": "C:\\Kolledg\\practicaCSharp\\19-20\\RecipeBook\\RecipeBook\\Views\\Home\\Change.cshtml",
+              "RelativeDocumentMoniker": "RecipeBook\\Views\\Home\\Change.cshtml",
+              "ToolTip": "C:\\Kolledg\\practicaCSharp\\19-20\\RecipeBook\\RecipeBook\\Views\\Home\\Change.cshtml",
+              "RelativeToolTip": "RecipeBook\\Views\\Home\\Change.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-10T12:15:23.076Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+﻿@model Recipe
+
+@{
+    ViewData["Title"] = "Изменить рецепт";
+}
+
+<span class="page-title">Изменить рецепт</span>
+<div class="form-container">
+    <form method="post" asp-controller="Recipes" asp-action="Change" class="recipe-form">
+        <label asp-for="Title"></label>
+        <input asp-for="Title" class="form-input" />
+        <span asp-validation-for="Title"></span>
+
+        <label asp-for="Ingredients"></label>
+        <textarea asp-for="Ingredients" class="form-textarea"></textarea>
+        <span asp-validation-for="Ingredients"></span>
+
+        <label asp-for="Steps"></label>
+        <textarea asp-for="Steps" class="form-textarea"></textarea>
+        <span asp-validation-for="Steps"></span>
+
+        <input type="submit" value="Изменить" class="submit-button" />
+    </form>
+</div>

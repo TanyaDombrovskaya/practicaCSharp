@@ -1,0 +1,52 @@
+﻿@{
+    ViewData["Title"] = "RecipeBook";
+}
+
+@model IEnumerable<RecipeBook.Models.Recipe>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th></th>
+            <th>Название</th>
+            <th>Ингредиенты</th>
+            <th>Шаги</th>
+        </tr>
+    </thead>
+    <tbody>
+        @if (Model != null && Model.Any())
+        {
+            foreach (var recipe in Model)
+            {
+                <tr>
+                    <td>
+                        <input type="radio" name="selectedRecipeId" value="@recipe.Id" id="recipe_@recipe.Id">
+                    </td>
+                    <td>@recipe.Title</td>
+                    <td>@recipe.Ingredients</td>
+                    <td>@recipe.Steps</td>
+                </tr>
+            }
+        }
+        else
+        {
+            <tr>
+                <td colspan="4">Нет рецептов для отображения.</td>
+            </tr>
+        }
+    </tbody>
+</table>
+
+<div class="button-container">
+    <button class="add" onclick="location.href='/Recipes'">Добавить рецепт</button>
+
+    <form method="get" asp-action="Change">
+        <input type="hidden" name="selectedRecipeId" value="@Model.FirstOrDefault()?.Id">
+        <button type="submit" class="change">Редактировать</button>
+    </form>
+
+    <form method="post" asp-action="Delete">
+        <input type="hidden" name="selectedRecipeId" value="@Model.FirstOrDefault()?.Id">
+        <button type="submit" class="delete">Удалить</button>
+    </form>
+</div>
